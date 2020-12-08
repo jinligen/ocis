@@ -16,8 +16,8 @@ config = {
     'onlyoffice':'frontend'
   },
   'apiTests': {
-    'coreBranch': 'master',
-    'coreCommit': '60eaf47d37f30e52362953e5c7db44140f927890',
+    'coreBranch': 'tus-creation-with-upload',
+    'coreCommit': '',
     'numberOfParts': 10
   },
   'uiTests': {
